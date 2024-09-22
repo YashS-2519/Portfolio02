@@ -274,15 +274,15 @@ main img{
 }
 
 .main-bottom .links a:nth-child(1)::before{
-    content: "instag";
-}
-
-.main-bottom .links a:nth-child(2)::before{
     content: "github";
 }
 
-.main-bottom .links a:nth-child(3)::before{
+.main-bottom .links a:nth-child(2)::before{
     content: "linkedin";
+}
+
+.main-bottom .links a:nth-child(3)::before{
+    content: "instagram";
 }
 
 .main-bottom .links a:hover .pointer{
